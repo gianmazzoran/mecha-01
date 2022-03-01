@@ -1,0 +1,21 @@
+{
+    "name": "mecha-01",
+    "displayName": "MECHA.01",
+    "description": "Theme inspired by Neon Genesis Evangelion EVA 01",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MECHA.01",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MECHA.01-color-theme.json"
+            }
+        ]
+    }
+}
