@@ -17,5 +17,9 @@
                 "path": "./themes/MECHA.01-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gianmazzoran/mecha-01"
     }
 }
