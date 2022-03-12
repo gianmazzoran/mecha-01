@@ -6,4 +6,8 @@
 
 Theme inspired by Neon Genesis Evangelion EVA 01
 
+<p align="center">
+    <img width="1366" height="768" src="https://raw.githubusercontent.com/gianmazzoran/mecha-01/main/images/gDBdwCPX-default.jpeg">
+</p>
+
 Work in progress
