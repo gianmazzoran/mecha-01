@@ -2,7 +2,7 @@
     "name": "mecha-01",
     "displayName": "MECHA.01",
     "description": "Theme inspired by Neon Genesis Evangelion EVA 01",
-    "version": "0.11.0",
+    "version": "0.12.0",
     "engines": {
         "vscode": "^1.64.0"
     },
