@@ -6,7 +6,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-## [0.8.0] - 2022-03-12
+## [0.9.0] - 2022-03-12
 ### Added
 - Updated color scheme
 - New extension icon
