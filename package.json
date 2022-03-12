@@ -9,7 +9,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://raw.githubusercontent.com/gianmazzoran/mecha-01/main/images/mecha-01-logo.png",
+    "icon": "images/mecha-01-logo.png",
     "contributes": {
         "themes": [
             {
