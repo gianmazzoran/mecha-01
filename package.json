@@ -9,7 +9,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "images/mecha-01-logo.png",
+    "icon": "./images/mecha-01-logo.png",
     "contributes": {
         "themes": [
             {
